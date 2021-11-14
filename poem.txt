@@ -1,5 +1,4 @@
 The Rainbow and the Unicorn
-BLACK
 Violet
 Indigo
 Blue
@@ -7,6 +6,7 @@ Green
 Yellow
 Orange
 Red
+Black
 These are the 7 colors of the rainbow 
 This is also popularly abbreviated as VIBJYOR as you might have heard during your schooling days 
 And finally there us Unicorn
